@@ -1,5 +1,3 @@
-# SEEG-Planning
-
 # SEEG Trajectory Planning Web Application
 
 ## Overview
